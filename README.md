@@ -13,7 +13,7 @@ Ejecute los comandos del repositorio y muevase a la carpeta del proyecto
 ```console
 git clone 
 
-cd marvel-comics
+cd marvel
 ```
 
 Cree un archivo .env en el la raíz con la siguiente estructura:
